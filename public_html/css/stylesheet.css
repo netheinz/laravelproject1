@@ -1,0 +1,23 @@
+body {
+    display: none;
+}
+
+[class*="fa-"] {
+    color: black;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 1.6rem;
+}
+
+h2 {
+    font-size: 1.2rem;
+}
+
+h3 {
+    font-size: 1.1rem;
+}
